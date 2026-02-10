@@ -1,0 +1,173 @@
+{
+  "version": "1.0.0",
+  "projects": {
+    "ZDpcc2NyYXRjaFx0b2Rv": {
+      "name": "todo",
+      "path": "d:\\scratch\\todo",
+      "icon": "folder",
+      "color": null,
+      "notes": [
+        {
+          "id": "note_mlh0a05v_ozxa2hza5",
+          "content": "Test on PC",
+          "priority": "high",
+          "completed": false,
+          "createdAt": "2026-02-10T19:40:30.931Z",
+          "updatedAt": "2026-02-10T19:40:36.317Z"
+        }
+      ],
+      "createdAt": "2026-02-07T19:21:15.929Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cY29tbWFuZCB0cmFja2Vy": {
+      "name": "command tracker",
+      "path": "c:\\Users\\skdso\\command tracker",
+      "icon": "folder",
+      "color": null,
+      "notes": [
+        {
+          "id": "note_mlcpa2s7_bu1jdsvzo",
+          "content": "Fix me to be correct",
+          "priority": "medium",
+          "completed": false,
+          "createdAt": "2026-02-07T19:21:33.847Z",
+          "updatedAt": "2026-02-07T19:34:50.360Z",
+          "tag": "Test"
+        }
+      ],
+      "createdAt": "2026-02-07T19:21:15.929Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cYmxlbmQtdHJlZS12aWV3ZXItdGF1cmk_": {
+      "name": "blend-tree-viewer-tauri",
+      "path": "c:\\Users\\skdso\\blend-tree-viewer-tauri",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:21:15.929Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cc2FtcGxlLXNjb3V0": {
+      "name": "sample-scout",
+      "path": "c:\\Users\\skdso\\sample-scout",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:21:15.929Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cZG5kLXF1ZXN0LWFp": {
+      "name": "dnd-quest-ai",
+      "path": "c:\\Users\\skdso\\dnd-quest-ai",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:21:15.929Z"
+    },
+    "ZDovc2NyYXRjaC90b2Rv": {
+      "name": "todo",
+      "path": "d:/scratch/todo",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:40:04.928Z"
+    },
+    "YzovVXNlcnMvc2tkc28vY29tbWFuZCB0cmFja2Vy": {
+      "name": "command tracker",
+      "path": "c:/Users/skdso/command tracker",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:40:04.928Z"
+    },
+    "YzovVXNlcnMvc2tkc28vYmxlbmQtdHJlZS12aWV3ZXItdGF1cmk_": {
+      "name": "blend-tree-viewer-tauri",
+      "path": "c:/Users/skdso/blend-tree-viewer-tauri",
+      "icon": "folder",
+      "color": null,
+      "notes": [
+        {
+          "id": "note_mlcpyvj3_unp9rielj",
+          "tag": "Test",
+          "content": "Test",
+          "priority": "medium",
+          "completed": false,
+          "createdAt": "2026-02-07T19:40:50.847Z",
+          "updatedAt": "2026-02-07T19:40:50.847Z"
+        }
+      ],
+      "createdAt": "2026-02-07T19:40:04.928Z"
+    },
+    "YzovVXNlcnMvc2tkc28vc2FtcGxlLXNjb3V0": {
+      "name": "sample-scout",
+      "path": "c:/Users/skdso/sample-scout",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:40:04.928Z"
+    },
+    "YzovVXNlcnMvc2tkc28vZG5kLXF1ZXN0LWFp": {
+      "name": "dnd-quest-ai",
+      "path": "c:/Users/skdso/dnd-quest-ai",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:40:04.928Z"
+    },
+    "YzovVXNlcnMvc2tkc28vYmxlbmRlci9ibGVuZGVyLnR4dA__": {
+      "name": "blender.txt",
+      "path": "c:/Users/skdso/blender/blender.txt",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T19:40:04.928Z"
+    },
+    "ZDovc2NyYXRjaC9hbWJpZW50LXZpZGVvLXBsYXllcg__": {
+      "name": "ambient-video-player",
+      "path": "d:/scratch/ambient-video-player",
+      "icon": "folder",
+      "notes": [],
+      "createdAt": "2026-02-07T19:59:20.197Z"
+    },
+    "ZDovc2NyYXRjaC9hbnRpZ3Jhdml0eS1wcm9qZWN0cy1yZWNhbGw_": {
+      "name": "antigravity-projects-recall",
+      "path": "d:/scratch/antigravity-projects-recall",
+      "icon": "folder",
+      "notes": [],
+      "createdAt": "2026-02-07T19:59:20.197Z"
+    },
+    "ZDovc2NyYXRjaC9jb21tYW5kIGxpbmU_": {
+      "name": "command line",
+      "path": "d:/scratch/command line",
+      "icon": "folder",
+      "notes": [],
+      "createdAt": "2026-02-07T19:59:20.197Z"
+    },
+    "ZDovc2NyYXRjaC9jdXN0b20tbmV3LXRhYg__": {
+      "name": "custom-new-tab",
+      "path": "d:/scratch/custom-new-tab",
+      "icon": "folder",
+      "notes": [],
+      "createdAt": "2026-02-07T19:59:20.197Z"
+    },
+    "ZDovc2NyYXRjaC9yZXBvLXN5bmMtY2hlY2tlcg__": {
+      "name": "repo-sync-checker",
+      "path": "d:/scratch/repo-sync-checker",
+      "icon": "folder",
+      "notes": [],
+      "createdAt": "2026-02-07T19:59:20.197Z"
+    },
+    "ZDovc2NyYXRjaC9zY3JlZW4tZ2hvc3Q_": {
+      "name": "screen-ghost",
+      "path": "d:/scratch/screen-ghost",
+      "icon": "folder",
+      "notes": [],
+      "createdAt": "2026-02-07T19:59:20.197Z"
+    },
+    "YzovVXNlcnMvc2tkc28vRGVza3RvcC9ibGVuZGVyLnR4dA__": {
+      "name": "blender.txt",
+      "path": "c:/Users/skdso/Desktop/blender.txt",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-07T20:02:47.535Z"
+    }
+  },
+  "archivedProjects": {}
+}
