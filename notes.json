@@ -1,6 +1,143 @@
 {
   "version": "1.0.0",
   "projects": {
+    "ZDpcc2NyYXRjaFx0b2RvLWV4dGVudGlvbg__": {
+      "name": "todo-extention",
+      "path": "d:\\scratch\\todo-extention",
+      "icon": "folder",
+      "color": null,
+      "notes": [
+        {
+          "id": "note_mlgv8inj_quzea2tb6",
+          "content": "Test this works on my laptop",
+          "priority": "high",
+          "completed": false,
+          "createdAt": "2026-02-10T17:19:23.503Z",
+          "updatedAt": "2026-02-10T17:19:58.913Z"
+        }
+      ],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFx3ZWJzaXRl": {
+      "name": "website",
+      "path": "c:\\Users\\skdso\\Desktop\\website",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxCbGVuZGVyLUZpbGUtRmluZGVy": {
+      "name": "Blender-File-Finder",
+      "path": "d:\\scratch\\Blender-File-Finder",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFx3ZWJzaXRlXHRyZWxsbw__": {
+      "name": "trello",
+      "path": "c:\\Users\\skdso\\Desktop\\website\\trello",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxjbGlwYm9hcmQtdmF1bHQ_": {
+      "name": "clipboard-vault",
+      "path": "d:\\scratch\\clipboard-vault",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxjaHJvbWUtaG9tZQ__": {
+      "name": "chrome-home",
+      "path": "d:\\scratch\\chrome-home",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxjb21tYW5kIHRyYWNrZXI_": {
+      "name": "command tracker",
+      "path": "d:\\scratch\\command tracker",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxHbGl0Y2gtR3JlbWxpbg__": {
+      "name": "Glitch-Gremlin",
+      "path": "d:\\scratch\\Glitch-Gremlin",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxjb21tYW5kLWV4dGVudGlvbg__": {
+      "name": "command-extention",
+      "path": "d:\\scratch\\command-extention",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.916Z"
+    },
+    "ZDpcc2NyYXRjaFxWb2ljZSBjaGFuZ2Vy": {
+      "name": "Voice changer",
+      "path": "d:\\scratch\\Voice changer",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFxibGVuZGVyIGxpZ2h0aW5nIHNpdGUga2ltaQ__": {
+      "name": "blender lighting site kimi",
+      "path": "c:\\Users\\skdso\\Desktop\\blender lighting site kimi",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRG93bmxvYWRzXGNocm9tZS1ob21lLW1haW4_": {
+      "name": "chrome-home-main",
+      "path": "c:\\Users\\skdso\\Downloads\\chrome-home-main",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFxpbWFnZSBzY2FubmVy": {
+      "name": "image scanner",
+      "path": "c:\\Users\\skdso\\Desktop\\image scanner",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFxTaXRlIGZpbGVz": {
+      "name": "Site files",
+      "path": "c:\\Users\\skdso\\Desktop\\Site files",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFxmaXg_": {
+      "name": "fix",
+      "path": "c:\\Users\\skdso\\Desktop\\fix",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
+    "YzpcVXNlcnNcc2tkc29cRGVza3RvcFxHIENhcA__": {
+      "name": "G Cap",
+      "path": "c:\\Users\\skdso\\Desktop\\G Cap",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-08T11:45:56.917Z"
+    },
     "ZDpcc2NyYXRjaFx0b2Rv": {
       "name": "todo",
       "path": "d:\\scratch\\todo",
