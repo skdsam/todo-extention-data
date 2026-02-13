@@ -14,6 +14,14 @@
           "completed": false,
           "createdAt": "2026-02-10T17:19:23.503Z",
           "updatedAt": "2026-02-10T17:19:58.913Z"
+        },
+        {
+          "id": "note_mll0fav8_4v8bog4sr",
+          "content": "Another test",
+          "priority": "medium",
+          "completed": false,
+          "createdAt": "2026-02-13T14:55:42.788Z",
+          "updatedAt": "2026-02-13T14:55:42.788Z"
         }
       ],
       "createdAt": "2026-02-08T11:45:56.916Z"
