@@ -339,9 +339,9 @@
           "id": "note_mllfcula_4cs9lxnm1",
           "content": "When the application is less than 100% window size it refreshes the other bar window like extentions so on",
           "priority": "medium",
-          "completed": true,
+          "completed": false,
           "createdAt": "2026-02-13T21:53:42.622Z",
-          "updatedAt": "2026-02-13T21:54:12.999Z"
+          "updatedAt": "2026-02-13T21:54:14.761Z"
         },
         {
           "id": "note_mllfddym_l1bazqyf5",
