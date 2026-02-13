@@ -342,14 +342,6 @@
           "completed": false,
           "createdAt": "2026-02-13T21:53:42.622Z",
           "updatedAt": "2026-02-13T21:54:19.003Z"
-        },
-        {
-          "id": "note_mllfddym_l1bazqyf5",
-          "content": "To do items may need to be a title then some text for better visibility",
-          "priority": "high",
-          "completed": false,
-          "createdAt": "2026-02-13T21:54:07.726Z",
-          "updatedAt": "2026-02-13T21:54:26.856Z"
         }
       ],
       "createdAt": "2026-02-13T18:58:02.036Z"
