@@ -14,14 +14,6 @@
           "completed": false,
           "createdAt": "2026-02-10T17:19:23.503Z",
           "updatedAt": "2026-02-10T17:19:58.913Z"
-        },
-        {
-          "id": "note_mlja1eui_4l1k83c6i",
-          "content": "Test two",
-          "priority": "medium",
-          "completed": false,
-          "createdAt": "2026-02-12T09:49:18.570Z",
-          "updatedAt": "2026-02-12T09:49:18.570Z"
         }
       ],
       "createdAt": "2026-02-08T11:45:56.916Z"
