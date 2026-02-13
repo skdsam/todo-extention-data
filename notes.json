@@ -334,7 +334,16 @@
       "path": "d:\\scratch\\Antigravity-Auto-Pilot",
       "icon": "folder",
       "color": "charts.blue",
-      "notes": [],
+      "notes": [
+        {
+          "id": "note_mllfcula_4cs9lxnm1",
+          "content": "When the application is less than 100% window size it refreshes the other bar window like extentions so on",
+          "priority": "medium",
+          "completed": false,
+          "createdAt": "2026-02-13T21:53:42.622Z",
+          "updatedAt": "2026-02-13T21:53:42.622Z"
+        }
+      ],
       "createdAt": "2026-02-13T18:58:02.036Z"
     },
     "ZDpcc2NyYXRjaFxHYW1lMQ__": {
