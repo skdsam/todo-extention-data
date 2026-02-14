@@ -13,7 +13,9 @@
           "priority": "high",
           "completed": false,
           "createdAt": "2026-02-10T19:40:30.931Z",
-          "updatedAt": "2026-02-10T19:40:36.317Z"
+          "updatedAt": "2026-02-14T14:07:39.425Z",
+          "title": "Test on PC",
+          "description": "Test on PC"
         },
         {
           "id": "note_mllfew9b_scd2wd4kx",
