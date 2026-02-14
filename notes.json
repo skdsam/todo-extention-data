@@ -367,6 +367,14 @@
       "color": null,
       "notes": [],
       "createdAt": "2026-02-14T14:17:09.214Z"
+    },
+    "ZDpcc2NyYXRjaFxhZ2VudC1ibGVuZGVy": {
+      "name": "agent-blender",
+      "path": "d:\\scratch\\agent-blender",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-14T15:33:17.449Z"
     }
   },
   "archivedProjects": {}
