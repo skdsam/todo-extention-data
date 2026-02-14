@@ -90,10 +90,10 @@
           "id": "note_mlcpyvj3_unp9rielj",
           "tag": "Test",
           "content": "Test",
-          "priority": "medium",
+          "priority": "low",
           "completed": false,
           "createdAt": "2026-02-07T19:40:50.847Z",
-          "updatedAt": "2026-02-14T14:10:18.156Z",
+          "updatedAt": "2026-02-14T14:10:37.851Z",
           "title": "Test",
           "description": "Test"
         }
