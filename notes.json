@@ -16,14 +16,6 @@
           "updatedAt": "2026-02-14T14:07:39.425Z",
           "title": "Test on PC",
           "description": "Test on PC"
-        },
-        {
-          "id": "note_mllfew9b_scd2wd4kx",
-          "content": "Better visibility, title then discription so we can click and open to see full text",
-          "priority": "high",
-          "completed": false,
-          "createdAt": "2026-02-13T21:55:18.096Z",
-          "updatedAt": "2026-02-13T21:55:24.738Z"
         }
       ],
       "createdAt": "2026-02-07T19:21:15.929Z"
