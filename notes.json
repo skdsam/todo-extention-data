@@ -29,10 +29,10 @@
         {
           "id": "note_mlcpa2s7_bu1jdsvzo",
           "content": "Fix me to be correct",
-          "priority": "medium",
+          "priority": "low",
           "completed": false,
           "createdAt": "2026-02-07T19:21:33.847Z",
-          "updatedAt": "2026-02-14T14:10:25.931Z",
+          "updatedAt": "2026-02-14T14:10:44.221Z",
           "tag": "Test",
           "title": "Test",
           "description": "Fix me to be correct"
