@@ -417,6 +417,14 @@
       "color": "charts.blue",
       "notes": [],
       "createdAt": "2026-02-15T17:05:49.226Z"
+    },
+    "ZDpcc2NyYXRjaFxub2RlX21pbmltYXA_": {
+      "name": "node_minimap",
+      "path": "d:\\scratch\\node_minimap",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-15T20:24:47.248Z"
     }
   },
   "archivedProjects": {}
