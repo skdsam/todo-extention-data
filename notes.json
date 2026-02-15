@@ -397,7 +397,17 @@
       "path": "d:\\scratch\\blender-mini-map",
       "icon": "folder",
       "color": null,
-      "notes": [],
+      "notes": [
+        {
+          "id": "note_mlnzzf6h_pvzgsa179",
+          "title": "Nodes",
+          "description": "Fix nodes header colours",
+          "priority": "medium",
+          "completed": false,
+          "createdAt": "2026-02-15T17:06:40.409Z",
+          "updatedAt": "2026-02-15T17:06:40.409Z"
+        }
+      ],
       "createdAt": "2026-02-15T14:24:53.194Z"
     },
     "YzpcVXNlcnNcc2tkc29cLmdlbWluaVxhbnRpZ3Jhdml0eVxzY3JhdGNoXGJsZW5kZXItbWluaS1tYXA_": {
