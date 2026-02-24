@@ -441,6 +441,14 @@
       "color": null,
       "notes": [],
       "createdAt": "2026-02-20T12:07:30.783Z"
+    },
+    "ZDpcc2NyYXRjaFxyZWZlcmVuY2UtYm9hcmQ_": {
+      "name": "reference-board",
+      "path": "d:\\scratch\\reference-board",
+      "icon": "folder",
+      "color": null,
+      "notes": [],
+      "createdAt": "2026-02-24T11:02:49.779Z"
     }
   },
   "archivedProjects": {}
